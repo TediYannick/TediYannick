@@ -1,14 +1,16 @@
 # Bienvenue aux nouveaux arrivants 👋
 ## À propos de moi
 
-<img align="right" src="https://pbs.twimg.com/media/DNwTqGgW4AECNHJ.jpg"/>
 
+Aspirant Ingénieur Informatique | Développeur Polyvalent & Passionné
 
-Étudiant à l'ESGI Paris, je prépare un Master Expert en Ingénierie Informatique après avoir obtenu une Licence de Chargé de Développement de Solutions Applicatives ou Logicielles. Passionné par l'innovation et les technologies, je suis constamment à la recherche de nouveaux défis à relever dans le domaine du développement.
+Après un parcours solide allant du BTS Systèmes Numériques à un Bachelor Chargé de Développement de Solutions Applicatives et Logicielles, j’ai acquis une expérience complète en développement et en ingénierie logicielle.
 
-Mon parcours, renforcé par un BTS Systèmes Numériques, m'a permis d'acquérir une expertise complète, allant du développement web (front-end : HTML, CSS, Bootstrap, WordPress ; back-end : PHP, API) à la création d'applications (C, Java, Kotlin, Python), en passant par le développement de jeux vidéo (Unity, Unreal) et l'administration réseau.
+Mon expertise couvre plusieurs domaines allant du développement web (front-end : HTML, CSS, Bootstrap, WordPress ; back-end : PHP, API) à la création d'applications (C, Java, Kotlin, Python), en passant par le développement de jeux vidéo (Unity, Unreal) et l'administration réseau.
 
-Curieux, adaptable et toujours en quête d'innovation , je suis prêt à mettre mon expertise à votre service. Que ce soit pour concevoir des solutions sur mesure, développer des applications performantes ou optimiser vos infrastructures, je suis déterminé à relever vos défis avec créativité et rigueur.
+Curieux, adaptable et passionné par les nouvelles technologies, j’aspire aujourd’hui à devenir ingénieur informatique. Je suis à la recherche de nouvelles opportunités et de projets stimulants où je pourrai mettre mes compétences au service de solutions innovantes et performantes.
 
-Collaborons ensemble pour donner vie à vos projets ambitieux ! Si vous cherchez un développeur polyvalent, autonome et passionné par la technologie, n'hésitez pas à me contacter. Je suis prêt à m'impliquer pleinement dans des missions innovantes et à apporter une réelle valeur ajoutée à votre équipe.
+Mon objectif : relever des défis techniques, concevoir des solutions sur mesure et apporter une véritable valeur ajoutée aux équipes et aux projets auxquels je contribue.
+
+Ouvert aux collaborations et opportunités, je serais ravi d’échanger avec vous pour construire ensemble des projets ambitieux.
 
